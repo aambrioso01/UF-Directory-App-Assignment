@@ -6,3 +6,9 @@
   max-height: 400px;
   overflow: auto;
 }
+
+.btn {
+  font-size: 16px;
+  padding: 10px 16px;
+  background: #e60000;
+}
